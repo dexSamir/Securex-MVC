@@ -9,4 +9,19 @@
   <ItemGroup>
     <ProjectReference Include="..\Securex.DAL\Securex.DAL.csproj" />
   </ItemGroup>
+  <ItemGroup>
+    <None Remove="Extension\" />
+    <None Remove="VM\" />
+    <None Remove="VM\Department\" />
+    <None Remove="VM\Employee\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Extension\" />
+    <Folder Include="VM\" />
+    <Folder Include="VM\Department\" />
+    <Folder Include="VM\Employee\" />
+  </ItemGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
+  </ItemGroup>
 </Project>

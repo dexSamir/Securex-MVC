@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "Pehr3t4Vsm+zlzIEBJvYkllGXAI3ogpNN5Qjdsg00dM=",
+  "Hash": "6HVS9TFSn/XGznRsQhjIItUEhUH8C5xEVF1o1JO+QXw=",
   "Source": "Securex.MVC",
   "BasePath": "_content/Securex.MVC",
   "Mode": "Default",
@@ -38091,6 +38091,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot/assets/scss/bootstrap/scss/vendor/_rfs.scss"
+    },
+    {
+      "Identity": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/wwwroot/imgs/employees/yveqss2u.jkt.png",
+      "SourceId": "Securex.MVC",
+      "SourceType": "Discovered",
+      "ContentRoot": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/wwwroot/",
+      "BasePath": "_content/Securex.MVC",
+      "RelativePath": "imgs/employees/yveqss2u.jkt.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot/imgs/employees/yveqss2u.jkt.png"
     }
   ]
 }

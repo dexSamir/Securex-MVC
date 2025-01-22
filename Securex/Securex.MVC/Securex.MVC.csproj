@@ -10,6 +10,8 @@
   <PropertyGroup Condition=" '$(RunConfiguration)' == 'http' " />
   <ItemGroup>
     <Content Remove="wwwroot\" />
+    <Content Remove="wwwroot\imgs\" />
+    <Content Remove="wwwroot\imgs\employees\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="wwwroot\" />
@@ -19,6 +21,10 @@
     <Folder Include="Areas\Admin\Views\" />
     <Folder Include="Areas\Admin\Views\Dashboard\" />
     <Folder Include="Areas\Admin\Views\Shared\" />
+    <Folder Include="Areas\Admin\Views\Department\" />
+    <Folder Include="Areas\Admin\Views\Employee\" />
+    <Folder Include="wwwroot\imgs\" />
+    <Folder Include="wwwroot\imgs\employees\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Securex.BL\Securex.BL.csproj">
@@ -41,5 +47,7 @@
     <None Remove="Areas\Admin\Views\" />
     <None Remove="Areas\Admin\Views\Dashboard\" />
     <None Remove="Areas\Admin\Views\Shared\" />
+    <None Remove="Areas\Admin\Views\Department\" />
+    <None Remove="Areas\Admin\Views\Employee\" />
   </ItemGroup>
 </Project>
