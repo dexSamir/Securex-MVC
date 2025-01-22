@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "Hash": "+qr9ZmRSsjZz47aXIZo++IUhHmqWbG8o2vanCv5zw1I=",
+  "Source": "Securex.MVC",
+  "BasePath": "_content/Securex.MVC",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Securex.MVC/wwwroot",
+      "Source": "Securex.MVC",
+      "ContentRoot": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/wwwroot/",
+      "BasePath": "_content/Securex.MVC",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/bundle/Securex.MVC.styles.css",
+      "SourceId": "Securex.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/bundle/",
+      "BasePath": "_content/Securex.MVC",
+      "RelativePath": "Securex.MVC.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/bundle/Securex.MVC.styles.css"
+    },
+    {
+      "Identity": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/projectbundle/Securex.MVC.bundle.scp.css",
+      "SourceId": "Securex.MVC",
+      "SourceType": "Computed",
+      "ContentRoot": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/projectbundle/",
+      "BasePath": "_content/Securex.MVC",
+      "RelativePath": "Securex.MVC.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/projectbundle/Securex.MVC.bundle.scp.css"
+    }
+  ]
+}

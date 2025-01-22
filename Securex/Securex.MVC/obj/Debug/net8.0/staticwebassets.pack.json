@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.MVC/obj/Debug/net8.0/scopedcss/projectbundle/Securex.MVC.bundle.scp.css",
+      "PackagePath": "staticwebassets/Securex.MVC.bundle.scp.css"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.Securex.MVC.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.Securex.MVC.props",
+      "PackagePath": "build\\Securex.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.Securex.MVC.props",
+      "PackagePath": "buildMultiTargeting\\Securex.MVC.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.Securex.MVC.props",
+      "PackagePath": "buildTransitive\\Securex.MVC.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

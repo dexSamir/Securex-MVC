@@ -1,0 +1,17 @@
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.DAL.deps.json
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.DAL.runtimeconfig.json
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.DAL.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.DAL.pdb
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.Core.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/bin/Debug/net8.0/Securex.Core.pdb
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.csproj.CopyComplete
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/refint/Securex.DAL.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.pdb
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.genruntimeconfig.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/ref/Securex.DAL.dll

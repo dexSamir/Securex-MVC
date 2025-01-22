@@ -1,0 +1,12 @@
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.csproj.AssemblyReference.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.AssemblyInfoInputs.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.AssemblyInfo.cs
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.csproj.CoreCompileInputs.cache
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/bin/Debug/net8.0/Securex.Core.deps.json
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/bin/Debug/net8.0/Securex.Core.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/bin/Debug/net8.0/Securex.Core.pdb
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/refint/Securex.Core.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.pdb
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/ref/Securex.Core.dll
