@@ -1,4 +1,6 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity;
+using Microsoft.EntityFrameworkCore;
+using Securex.Core.Entities;
 using Securex.DAL.Context;
 
 namespace Securex.MVC;
@@ -14,6 +16,17 @@ public class Program
         builder.Services.AddDbContext<AppDbContext>(opt =>
             opt.UseNpgsql(builder.Configuration.GetConnectionString("PostgreSQL")));
 
+        builder.Services.AddIdentity<User, IdentityRole>(opt =>
+        {
+            opt.Password.RequireDigit = true;
+            opt.Password.RequiredLength = 3;
+            opt.Password.RequireLowercase = true;
+            opt.Password.RequireUppercase = false;
+            opt.Password.RequireNonAlphanumeric = false;
+            opt.Lockout.MaxFailedAccessAttempts = 5;
+            opt.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromSeconds(15);
+
+        }).AddDefaultTokenProviders().AddEntityFrameworkStores<AppDbContext>();
         var app = builder.Build();
 
         // Configure the HTTP request pipeline.

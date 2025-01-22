@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Securex.DAL")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7f0aa86ff0a91eb17c230636c4e05edd0c7f11e3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b301f9d5d7a046af6dc5145fcf244b2061b19172")]
 [assembly: System.Reflection.AssemblyProductAttribute("Securex.DAL")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Securex.DAL")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -25,6 +25,7 @@
     <Folder Include="Areas\Admin\Views\Employee\" />
     <Folder Include="wwwroot\imgs\" />
     <Folder Include="wwwroot\imgs\employees\" />
+    <Folder Include="Views\Account\" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Securex.BL\Securex.BL.csproj">
@@ -49,5 +50,6 @@
     <None Remove="Areas\Admin\Views\Shared\" />
     <None Remove="Areas\Admin\Views\Department\" />
     <None Remove="Areas\Admin\Views\Employee\" />
+    <None Remove="Views\Account\" />
   </ItemGroup>
 </Project>

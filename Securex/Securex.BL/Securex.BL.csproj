@@ -14,12 +14,14 @@
     <None Remove="VM\" />
     <None Remove="VM\Department\" />
     <None Remove="VM\Employee\" />
+    <None Remove="VM\Account\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Extension\" />
     <Folder Include="VM\" />
     <Folder Include="VM\Department\" />
     <Folder Include="VM\Employee\" />
+    <Folder Include="VM\Account\" />
   </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.Http" Version="2.3.0" />
