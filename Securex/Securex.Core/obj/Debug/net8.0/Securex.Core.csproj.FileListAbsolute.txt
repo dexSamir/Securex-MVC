@@ -10,3 +10,4 @@
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/refint/Securex.Core.dll
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.pdb
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/ref/Securex.Core.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.Core/obj/Debug/net8.0/Securex.Core.sourcelink.json

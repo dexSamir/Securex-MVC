@@ -15,3 +15,4 @@
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.pdb
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.genruntimeconfig.cache
 /Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/ref/Securex.DAL.dll
+/Users/samirhebibov/Desktop/Securex-MVC/Securex/Securex.DAL/obj/Debug/net8.0/Securex.DAL.sourcelink.json
